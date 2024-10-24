@@ -1,0 +1,14 @@
+/Users/b/csharp/08_Methods/bin/Debug/net8.0/08_Methods
+/Users/b/csharp/08_Methods/bin/Debug/net8.0/08_Methods.deps.json
+/Users/b/csharp/08_Methods/bin/Debug/net8.0/08_Methods.runtimeconfig.json
+/Users/b/csharp/08_Methods/bin/Debug/net8.0/08_Methods.dll
+/Users/b/csharp/08_Methods/bin/Debug/net8.0/08_Methods.pdb
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.AssemblyInfoInputs.cache
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.AssemblyInfo.cs
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.csproj.CoreCompileInputs.cache
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.dll
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/refint/08_Methods.dll
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.pdb
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/08_Methods.genruntimeconfig.cache
+/Users/b/csharp/08_Methods/obj/Debug/net8.0/ref/08_Methods.dll

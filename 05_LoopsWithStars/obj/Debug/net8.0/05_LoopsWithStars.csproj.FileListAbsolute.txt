@@ -1,0 +1,14 @@
+/Users/b/csharp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars
+/Users/b/csharp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.deps.json
+/Users/b/csharp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.runtimeconfig.json
+/Users/b/csharp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.dll
+/Users/b/csharp/05_LoopsWithStars/bin/Debug/net8.0/05_LoopsWithStars.pdb
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.AssemblyInfoInputs.cache
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.AssemblyInfo.cs
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.csproj.CoreCompileInputs.cache
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.dll
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/refint/05_LoopsWithStars.dll
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.pdb
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/05_LoopsWithStars.genruntimeconfig.cache
+/Users/b/csharp/05_LoopsWithStars/obj/Debug/net8.0/ref/05_LoopsWithStars.dll

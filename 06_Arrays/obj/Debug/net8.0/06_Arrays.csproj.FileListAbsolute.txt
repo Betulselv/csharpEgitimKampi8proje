@@ -1,0 +1,14 @@
+/Users/b/csharp/06_Arrays/bin/Debug/net8.0/06_Arrays
+/Users/b/csharp/06_Arrays/bin/Debug/net8.0/06_Arrays.deps.json
+/Users/b/csharp/06_Arrays/bin/Debug/net8.0/06_Arrays.runtimeconfig.json
+/Users/b/csharp/06_Arrays/bin/Debug/net8.0/06_Arrays.dll
+/Users/b/csharp/06_Arrays/bin/Debug/net8.0/06_Arrays.pdb
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.AssemblyInfoInputs.cache
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.AssemblyInfo.cs
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.csproj.CoreCompileInputs.cache
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.dll
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/refint/06_Arrays.dll
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.pdb
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/06_Arrays.genruntimeconfig.cache
+/Users/b/csharp/06_Arrays/obj/Debug/net8.0/ref/06_Arrays.dll

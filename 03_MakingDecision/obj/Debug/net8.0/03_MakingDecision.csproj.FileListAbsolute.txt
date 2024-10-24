@@ -1,0 +1,14 @@
+/Users/b/csharp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision
+/Users/b/csharp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.deps.json
+/Users/b/csharp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.runtimeconfig.json
+/Users/b/csharp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.dll
+/Users/b/csharp/03_MakingDecision/bin/Debug/net8.0/03_MakingDecision.pdb
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.AssemblyInfoInputs.cache
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.AssemblyInfo.cs
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.csproj.CoreCompileInputs.cache
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.dll
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/refint/03_MakingDecision.dll
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.pdb
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/03_MakingDecision.genruntimeconfig.cache
+/Users/b/csharp/03_MakingDecision/obj/Debug/net8.0/ref/03_MakingDecision.dll

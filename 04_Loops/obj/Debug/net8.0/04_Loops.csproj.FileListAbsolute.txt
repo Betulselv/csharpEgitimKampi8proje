@@ -1,0 +1,14 @@
+/Users/b/csharp/04_Loops/bin/Debug/net8.0/04_Loops
+/Users/b/csharp/04_Loops/bin/Debug/net8.0/04_Loops.deps.json
+/Users/b/csharp/04_Loops/bin/Debug/net8.0/04_Loops.runtimeconfig.json
+/Users/b/csharp/04_Loops/bin/Debug/net8.0/04_Loops.dll
+/Users/b/csharp/04_Loops/bin/Debug/net8.0/04_Loops.pdb
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.AssemblyInfoInputs.cache
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.AssemblyInfo.cs
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.csproj.CoreCompileInputs.cache
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.dll
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/refint/04_Loops.dll
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.pdb
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/04_Loops.genruntimeconfig.cache
+/Users/b/csharp/04_Loops/obj/Debug/net8.0/ref/04_Loops.dll
