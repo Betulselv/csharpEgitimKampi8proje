@@ -35,3 +35,11 @@ Bu projede, foreach döngüsünün bir liste, dizi yada koleksiyondaki elemanlar
 Son projede, geri değer döndürmeyen ve geriye değer döndüren metotları farklı parametreler ile çalıştım. Kullanıcıdan aldığım verileri işleyip sonuçları döndüren fonksiyonlar oluşturdum. Bu proje ile daha karmaşık işlemleri öğrenmiş oldum.
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. <br/> **İlerleyen projelerde bu bilgileri daha da geliştireceğim!**
+
+
+## 3. Case olarak  C# Eğitim Kampı içerisinde DB First projesi kapsamında Entity Framework metotlarını kullanarak Windows Forms uygulama çalışması yapıldı. 
+
+![WhatsApp Image 2024-12-06 at 15 38 31](https://github.com/user-attachments/assets/cb1d64c6-130e-4e70-8ab3-e12f43bc4128)
+![WhatsApp Image 2024-12-06 at 15 39 13](https://github.com/user-attachments/assets/11616842-e25c-4f5a-a1ca-e5353c22bfd8)
+
+
